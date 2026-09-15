@@ -1,0 +1,8 @@
+# Зависимости проекта VK-LSVD.
+# ВНИМАНИЕ: torch НЕ указан здесь — в Dockerfile он ставится отдельно
+# (CUDA-сборка из индекса PyTorch). Локально используйте готовое окружение
+# или установите torch самостоятельно:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+numpy>=2.0
+polars>=1.0
+duckdb>=1.0
