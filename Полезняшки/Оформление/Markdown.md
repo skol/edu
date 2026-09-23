@@ -17,6 +17,7 @@
 # Полезные инструменты
 [[Pandoc]] - экспорт markdown в pdf, с преобразованием LaTeX, Mermaid и PlantUML.
 [[Marp]]
+[Какой - то найденный конвертер](https://github.com/Julynx/markdown_convert)
 
 ## Разные короткие примеры (из разряда "как сделать")
 
